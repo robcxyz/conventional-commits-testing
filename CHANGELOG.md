@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.3](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.2...v0.4.3) (2022-08-11)
+
+
+### Bug Fixes
+
+* add bar ([7d2fe01](https://github.com/robcxyz/conventional-commits-testing/commit/7d2fe0117c41684b786b6939e25a8d507935c205))
+
 ## [0.4.2](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.1...v0.4.2) (2022-08-11)
 
 
