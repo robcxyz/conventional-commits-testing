@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.1.0...v0.2.0) (2022-08-11)
+
+
+### Features
+
+* feat after fix ([1d531cf](https://github.com/robcxyz/conventional-commits-testing/commit/1d531cf1f93bf51b8cfb20d0f5288c5a443c0337))
+
+
+### Bug Fixes
+
+* testing fix ([7dab42e](https://github.com/robcxyz/conventional-commits-testing/commit/7dab42e2f11374c94642079f5d82e56858c11078))
+
 ## 0.1.0 (2022-08-11)
 
 
