@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.2.0...v0.3.0) (2022-08-11)
+
+
+### Features
+
+* add some boilerplate ([d4b12c0](https://github.com/robcxyz/conventional-commits-testing/commit/d4b12c0bd26c31a4310963506fd8537d9afa5d50))
+
 ## [0.2.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.1.0...v0.2.0) (2022-08-11)
 
 
