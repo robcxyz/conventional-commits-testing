@@ -33,4 +33,5 @@ Would also accommodate PRs as well but they would need to follow the convention.
 
 ###  Links 
 
+
 - https://github.com/TimonVS/pr-labeler-action/issues/28
