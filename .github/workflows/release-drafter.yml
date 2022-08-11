@@ -11,11 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Conventional Changelog Action
-        uses: TriPSs/conventional-changelog-action@v3
+# This one automatically bumps the version
+#      - name: Conventional Changelog Action
+#        uses: TriPSs/conventional-changelog-action@v3
+#        with:
+#          github-token: ${{ secrets.github_token }}
+#          skip-version-file: true
+
+      - uses: google-github-actions/release-please-action@v3
         with:
-          github-token: ${{ secrets.github_token }}
-          skip-version-file: true
+          release-type: python
+          package-name: release-please-action
 
       - uses: release-drafter/release-drafter@v5
         env:
