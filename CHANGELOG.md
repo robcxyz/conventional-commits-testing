@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.0...v0.4.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* add init py ([f704838](https://github.com/robcxyz/conventional-commits-testing/commit/f7048383fc131a18b3a9fc344a741e5a2e130310))
+
 ## [0.4.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.3.0...v0.4.0) (2022-08-11)
 
 
