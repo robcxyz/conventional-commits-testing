@@ -30,7 +30,6 @@ Would also accommodate PRs as well but they would need to follow the convention.
   - Produces changelog and updates release draft
   - Has map for associating labels with 
 
-
 ###  Links 
 
 - https://github.com/TimonVS/pr-labeler-action/issues/28
