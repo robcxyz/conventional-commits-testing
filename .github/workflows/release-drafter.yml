@@ -22,8 +22,8 @@ jobs:
         with:
           release-type: python
           package-name: release-please-action
-          extra-files:
-            - app/version.py
+          extra-files: |
+            app/version.py
 
       - uses: release-drafter/release-drafter@v5
         env:
