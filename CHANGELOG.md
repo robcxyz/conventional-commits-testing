@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.3.0...v0.4.0) (2022-08-11)
+
+
+### Features
+
+* test bumping ([471ce1e](https://github.com/robcxyz/conventional-commits-testing/commit/471ce1e8adda2fb8f86de7c565e3b981347fe4d1))
+
 ## [0.3.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.2.0...v0.3.0) (2022-08-11)
 
 
