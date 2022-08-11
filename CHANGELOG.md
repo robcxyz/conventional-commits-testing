@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.2](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.1...v0.4.2) (2022-08-11)
+
+
+### Bug Fixes
+
+* add annotation to version ([6f9405d](https://github.com/robcxyz/conventional-commits-testing/commit/6f9405dbfb43920a60b3527dc21358965b2c0f25))
+
 ## [0.4.1](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.0...v0.4.1) (2022-08-11)
 
 
