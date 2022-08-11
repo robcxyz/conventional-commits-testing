@@ -1,3 +1,4 @@
 
 
 print("foo")
+print("bar")
