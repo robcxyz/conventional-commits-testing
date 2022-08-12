@@ -22,6 +22,8 @@ jobs:
         with:
           release-type: python
           package-name: release-please-action
+          monorepo-tags: true
+          path: app
           extra-files: |
             app/version.py
 
