@@ -25,4 +25,4 @@ jobs:
           monorepo-tags: true
           path: app
           extra-files: |
-            app/version.py
+            app/__init__.py
