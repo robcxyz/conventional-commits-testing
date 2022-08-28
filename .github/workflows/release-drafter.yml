@@ -11,18 +11,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-# This one automatically bumps the version
-#      - name: Conventional Changelog Action
-#        uses: TriPSs/conventional-changelog-action@v3
+# # Monorepo
+#      - uses: google-github-actions/release-please-action@v3
 #        with:
-#          github-token: ${{ secrets.github_token }}
-#          skip-version-file: true
+#          release-type: python
+#          package-name: thing
+#          monorepo-tags: true
+#          path: app
+#          extra-files: |
+#            app/__init__.py
 
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: python
-          package-name: thing
-          monorepo-tags: true
-          path: app
+          release-as: v0.5.0
           extra-files: |
             app/__init__.py
