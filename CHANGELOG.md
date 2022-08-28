@@ -4,6 +4,14 @@
 ## Do some Foo more
 
 
+## [0.8.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.7.0...v0.8.0) (2022-08-28)
+
+
+### Features
+
+* bump ([ef2ea36](https://github.com/robcxyz/conventional-commits-testing/commit/ef2ea36fc9e5bd7a443ac0d87be2b9c7d872d4fa))
+* bump 2 ([2ad9925](https://github.com/robcxyz/conventional-commits-testing/commit/2ad9925d198ff209befa7726cb166cbe1e987f08))
+
 ## [0.7.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.6.0...v0.7.0) (2022-08-28)
 
 
