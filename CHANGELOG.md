@@ -1,7 +1,7 @@
 # Changelog
 
 
-## Do some Foo 
+## Do some Foo more
 
 
 ## [0.4.3](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.2...v0.4.3) (2022-08-11)
