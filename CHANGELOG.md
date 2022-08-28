@@ -4,6 +4,24 @@
 ## Do some Foo more
 
 
+## [0.5.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.3...v0.5.0) (2022-08-28)
+
+
+### Features
+
+* add app feat ([0bd558e](https://github.com/robcxyz/conventional-commits-testing/commit/0bd558eba95b2154a1752bcd18d61e96c441fe21))
+* add changelog foo ([a3ad7f4](https://github.com/robcxyz/conventional-commits-testing/commit/a3ad7f4390586cade0f34b64714ec4d6bab93c5f))
+* move version ([c0e31dc](https://github.com/robcxyz/conventional-commits-testing/commit/c0e31dc0c39c12d5e426e3c93f9849f84684de50))
+* release-as ([8a79189](https://github.com/robcxyz/conventional-commits-testing/commit/8a7918996f8c735b35891c9dfe687887994a30c4))
+
+
+### Bug Fixes
+
+* add some tags: ([b0a05f3](https://github.com/robcxyz/conventional-commits-testing/commit/b0a05f30650c8444c6f09e349edc91b02d5ca50a))
+* change app name: ([9648b4a](https://github.com/robcxyz/conventional-commits-testing/commit/9648b4a632f0fe4a72ea2762f7090fac750c2df6))
+* modify changelog ([de29a81](https://github.com/robcxyz/conventional-commits-testing/commit/de29a818033c2ca9f8ecc4b03ccc9063cddd1a7b))
+* modify changelog again ([e98f4c0](https://github.com/robcxyz/conventional-commits-testing/commit/e98f4c04ae30eb19024030a5aa899fe9f0c86530))
+
 ## [0.4.3](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.2...v0.4.3) (2022-08-11)
 
 
