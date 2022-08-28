@@ -1,8 +1,15 @@
 name: upload-pypi-ci
 
+#on:
+#  release:
+#    types: [ published ]
+
 on:
-  release:
-    types: [ published ]
+  pull_request_target:
+    types:
+      - closed
+    branches:
+      - 'release-please**'
 
 jobs:
   upload:
