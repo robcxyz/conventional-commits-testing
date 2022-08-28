@@ -4,6 +4,14 @@
 ## Do some Foo more
 
 
+## [0.6.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.5.0...v0.6.0) (2022-08-28)
+
+
+### Features
+
+* ci update ([4552558](https://github.com/robcxyz/conventional-commits-testing/commit/45525580beee5d48a2331829d2c99e43fd5119f4))
+* upload ([812c359](https://github.com/robcxyz/conventional-commits-testing/commit/812c359fdb1349b227bd5806175004f89762fb4c))
+
 ## [0.5.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.4.3...v0.5.0) (2022-08-28)
 
 
