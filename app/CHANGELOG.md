@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/robcxyz/conventional-commits-testing/compare/thing-v0.1.0...thing-v0.2.0) (2022-08-28)
+
+
+### Features
+
+* add app feat ([0bd558e](https://github.com/robcxyz/conventional-commits-testing/commit/0bd558eba95b2154a1752bcd18d61e96c441fe21))
+
 ## 0.1.0 (2022-08-27)
 
 
