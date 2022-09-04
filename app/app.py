@@ -9,7 +9,6 @@ print("bar")
 print("bar")
 
 
-
 print("bar")
 
 print("bar")
