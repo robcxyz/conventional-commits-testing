@@ -4,6 +4,19 @@
 ## Do some Foo more
 
 
+## [0.8.2](https://github.com/robcxyz/conventional-commits-testing/compare/v0.8.1...v0.8.2) (2022-09-04)
+
+
+### Performance Improvements
+
+* this ([e6d66b0](https://github.com/robcxyz/conventional-commits-testing/commit/e6d66b0071f5e94bdd2bce55bc6d1c11998b15ea))
+* this ([556f6ab](https://github.com/robcxyz/conventional-commits-testing/commit/556f6ab02aee23b7dfd0b54c02bd8470cf667df4))
+
+
+### Provider Changes
+
+* this: ([ac8e6c3](https://github.com/robcxyz/conventional-commits-testing/commit/ac8e6c3419b21e79d7a3c41cc6fb85b7688f5655))
+
 ## [0.8.1](https://github.com/robcxyz/conventional-commits-testing/compare/v0.8.0...v0.8.1) (2022-09-04)
 
 
