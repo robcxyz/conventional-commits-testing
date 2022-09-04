@@ -4,6 +4,13 @@
 ## Do some Foo more
 
 
+## [0.8.1](https://github.com/robcxyz/conventional-commits-testing/compare/v0.8.0...v0.8.1) (2022-09-04)
+
+
+### Provider
+
+* build ([47a626e](https://github.com/robcxyz/conventional-commits-testing/commit/47a626ea8bdb3fba5ff37812a59393601dd045ab))
+
 ## [0.8.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.7.0...v0.8.0) (2022-08-28)
 
 
