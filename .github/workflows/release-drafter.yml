@@ -28,13 +28,13 @@ jobs:
 #          release-as: v0.5.0
           extra-files: |
             app/__init__.py
-        changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
-      
-#          [
-#            {"type":"feat","section":"Features","hidden":false},
-#            {"type":"fix","section":"Bug Fixes","hidden":false},
-#            {"type":"provider","section":"Provider","hidden":false}
-#          ]
+#          changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
+          changelog-types: |
+            [
+              {"type":"feat","section":"Features","hidden":false},
+              {"type":"fix","section":"Bug Fixes","hidden":false},
+              {"type":"provider","section":"Provider","hidden":false}
+            ]
 
 
       - run: echo 1
