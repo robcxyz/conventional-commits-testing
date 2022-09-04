@@ -28,6 +28,15 @@ jobs:
 #          release-as: v0.5.0
           extra-files: |
             app/__init__.py
+          changelog-types: |
+            [
+              {"type":"feat","section":"Features","hidden":false},
+              {"type":"fix","section":"Bug Fixes","hidden":false},
+              {"type":"perf","section":"Performance Improvements","hidden":false},
+              {"type":"refactor","section":"Refactors","hidden":false},
+              {"type":"revert","section":"Reversions","hidden":false},
+              {"type":"provider","section":"Provider Changes","hidden":false}
+            ]
 #          changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
 #          changelog-types: |
 #            [
