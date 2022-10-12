@@ -1,6 +1,6 @@
 name: "codeql"
 
 paths:
-  - tackle
+  - app
 paths-ignore:
   - tests/*
