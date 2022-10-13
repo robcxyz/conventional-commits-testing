@@ -4,3 +4,5 @@ dist
 build
 .tox
 */__pycache__
+
+.coverage

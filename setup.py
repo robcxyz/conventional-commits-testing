@@ -6,12 +6,8 @@ import setuptools
 
 # Package metadata.
 
-name = "google-cloud-storage"
-description = "Google Cloud Storage API client library"
-# Should be one of:
-# 'Development Status :: 3 - Alpha'
-# 'Development Status :: 4 - Beta'
-# 'Development Status :: 5 - Production/Stable'
+name = "fooooo"
+description = "foo the bar"
 release_status = "Development Status :: 5 - Production/Stable"
 dependencies = [
     "requests >= 2.18.0, < 3.0.0dev",
@@ -49,10 +45,7 @@ setuptools.setup(
     # version=version,
     description=description,
     long_description=readme,
-    author="Google LLC",
-    author_email="googleapis-packages@google.com",
     license="Apache 2.0",
-    url="https://github.com/googleapis/python-storage",
     classifiers=[
         release_status,
         "Intended Audience :: Developers",
