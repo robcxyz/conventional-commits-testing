@@ -2,6 +2,11 @@
 
 ![CodeQL](https://github.com/robcxyz/conventional-commits-testing/workflows/codeql/badge.svg)
 
+[![Foresight Docs](https://api-public.service.runforesight.com/api/v1/badge/test?repoId=8009481f-1586-4df0-b507-005dc0b028d2)](https://docs.runforesight.com/)
+
+[![Foresight Docs](https://api-public.service.runforesight.com/api/v1/badge/success?repoId=8009481f-1586-4df0-b507-005dc0b028d2)](https://docs.runforesight.com/)
+
+[![Foresight Docs](https://api-public.service.runforesight.com/api/v1/badge/utilization?repoId=8009481f-1586-4df0-b507-005dc0b028d2)](https://docs.runforesight.com/)
 
 Testing repo for conventional commits release patterns and how to automatically maintain a changelog from commit messages. There are basically two schools of thought for auto-generating changelogs, from commit messages and from PRs. 
 
