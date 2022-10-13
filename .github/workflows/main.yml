@@ -35,6 +35,6 @@ jobs:
         with:
           api_key: ${{ secrets.FORESIGHT_API_KEY }}
           coverage_path: ./coverage.xml
-#          coverage_format: xml
+          coverage_format: JACOCO/XML
           test_framework: pytest
           test_path: tests
