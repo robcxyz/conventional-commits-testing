@@ -1,5 +1,8 @@
 # conventional-commits-testing
 
+![CodeQL](https://github.com/robcxyz/conventional-commits-testing/workflows/codeql/badge.svg)
+
+
 Testing repo for conventional commits release patterns and how to automatically maintain a changelog from commit messages. There are basically two schools of thought for auto-generating changelogs, from commit messages and from PRs. 
 
 For commit message based changelogs, conventional commits will bump the version on each new `feat` flag. This can produce many incremented changes when you have lots of things that qualify as a feat and can result in many incremented versions to be released. This is especially true when practicing trunk based development. 
