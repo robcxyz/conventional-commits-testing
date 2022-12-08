@@ -4,6 +4,17 @@
 ## Do some Foo more
 
 
+## [0.9.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.8.2...v0.9.0) (2022-12-08)
+
+
+### Features
+
+* add codeqlA ([e9cb667](https://github.com/robcxyz/conventional-commits-testing/commit/e9cb66720824b7794c1418f547e7f866367a8ede))
+* add codeqlA ([611322d](https://github.com/robcxyz/conventional-commits-testing/commit/611322d73c8b6fc3ae4612379b8674709ab1008b))
+* add codeqlA ([c0f2870](https://github.com/robcxyz/conventional-commits-testing/commit/c0f287041621bf1bade1e1d445e21e8211f71ce0))
+* add tests ([6eb8679](https://github.com/robcxyz/conventional-commits-testing/commit/6eb8679d4276724f75c7719524b4adce704e7dbe))
+* foo: ([bc33689](https://github.com/robcxyz/conventional-commits-testing/commit/bc336893c04f66045506274bd6634e6c1483fdb8))
+
 ## [0.8.2](https://github.com/robcxyz/conventional-commits-testing/compare/v0.8.1...v0.8.2) (2022-09-04)
 
 
