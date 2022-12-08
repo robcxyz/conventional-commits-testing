@@ -2,7 +2,7 @@ name: upload-pypi-ci
 
 on:
   release:
-    types: [ published ]
+#    types: [ published ]
 
 #on:
 #  pull_request_target:
