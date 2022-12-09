@@ -4,6 +4,13 @@
 ## Do some Foo more
 
 
+## [0.16.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.15.0...v0.16.0) (2022-12-09)
+
+
+### Features
+
+* bar7 ([eafb80d](https://github.com/robcxyz/conventional-commits-testing/commit/eafb80dbc73d047287abd9129d1da0218a43cbd5))
+
 ## [0.15.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.14.0...v0.15.0) (2022-12-09)
 
 
