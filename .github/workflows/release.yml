@@ -13,8 +13,10 @@ on:
 #      - 'release-please**'
 
 jobs:
-  upload:
+  release:
     runs-on: ubuntu-latest
+    outputs:
+      release_created: ${{ steps.release-please.outputs.release_created }}
     steps:
       - uses: actions/checkout@v2
 
@@ -24,3 +26,10 @@ jobs:
           release-type: go
           extra-files: |
             go/global.go
+
+  docker:
+    runs-on: ubuntu-latest
+    needs: release
+    if: ${{ needs.release.outputs.release_created }}
+    steps:
+      - uses: actions/checkout@v2
