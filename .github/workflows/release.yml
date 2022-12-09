@@ -2,8 +2,9 @@ name: upload-pypi-ci
 
 on:
   release:
+    branches:
+      - main
 #    types: [ published ]
-
 #on:
 #  pull_request_target:
 #    types:
@@ -16,3 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - uses: google-github-actions/release-please-action@v3
+        id: release-please
+        with:
+          release-type: python
+          extra-files: |
+            go/global.go
