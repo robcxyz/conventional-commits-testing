@@ -4,6 +4,14 @@
 ## Do some Foo more
 
 
+## [0.12.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.11.0...v0.12.0) (2022-12-09)
+
+
+### Features
+
+* bar3 ([502f874](https://github.com/robcxyz/conventional-commits-testing/commit/502f87494694797f9186584c2455bec1a22970df))
+* bar3 ([aac0e0c](https://github.com/robcxyz/conventional-commits-testing/commit/aac0e0c6120b2e75017e4c93b049b396e2cf6fe5))
+
 ## [0.11.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.10.0...v0.11.0) (2022-12-08)
 
 
