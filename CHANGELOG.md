@@ -4,6 +4,17 @@
 ## Do some Foo more
 
 
+## [0.16.1](https://github.com/robcxyz/conventional-commits-testing/compare/v0.16.0...v0.16.1) (2023-06-08)
+
+
+### Bug Fixes
+
+* bump ([8de0119](https://github.com/robcxyz/conventional-commits-testing/commit/8de01195573d52c8c475240fc02dc347ce17e194))
+* bump ([e80cfb3](https://github.com/robcxyz/conventional-commits-testing/commit/e80cfb314a8c919c1273d86ca2e6c2b81da8f919))
+* ci ([80a6d7d](https://github.com/robcxyz/conventional-commits-testing/commit/80a6d7da9b4c0e7926d4a127e6cfff6836635c12))
+* ci ([9c219f7](https://github.com/robcxyz/conventional-commits-testing/commit/9c219f7615a66848369a4be95a3fa54833dfa3b6))
+* diff ([c154391](https://github.com/robcxyz/conventional-commits-testing/commit/c15439146ee2a34b84bd2254a2bb718add0ce567))
+
 ## [0.16.0](https://github.com/robcxyz/conventional-commits-testing/compare/v0.15.0...v0.16.0) (2022-12-09)
 
 
